@@ -3,7 +3,7 @@ Sema Nami — Digital Health Platform
 Sema Nami is a web‑based digital hospital and healthcare portal built with PHP, MySQL, Tailwind CSS, and JavaScript. It provides essential healthcare services including emergency requests, virtual consultations, verified staff listings, and health programs — all accessible through a modern, responsive browser interface.
 
 The current live site is hosted at:
-👉 https://unidatechs.com
+👉 Semanamimi.com
 
 1. System Overview
 
@@ -207,5 +207,6 @@ Future upgrades may include:
 If you need help integrating or expanding the system:
 
 📧 Contact: support@unidatechs.com
+
 
 🌐 Website: https://unidatechs.com
